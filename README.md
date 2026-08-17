@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 **13** years old **programator** from **Czech Republic** studying *elementary* school  
-I play ***basketball*** 🏀 and ***athletics*** 🏃 (**60m** run and **long jump**)
+I'm playing ***basketball*** 🏀 and ***athletics*** 🏃 (**60m** run and **long jump**)
 
 😄 &nbsp;Pronouns: **he/him**
 
