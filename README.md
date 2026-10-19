@@ -46,7 +46,7 @@ I'm playing ***basketball*** 🏀 and ***athletics*** 🏃 (**60m** run and **lo
   <img
     src="https://github-readme-stats.vercel.app/api?username=Fephyx&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
-    width="100%"
+    width="80%"
   />
 </p>
 
